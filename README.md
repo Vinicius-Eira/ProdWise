@@ -57,14 +57,14 @@ notra-corner-main/
 ### Passo 1: Clonar o repositório
 
 ```bash
-git clone https://github.com/Vinicius-Eira/notra-corner.git
-cd notra-corner-main
+git clone https://github.com/Vinicius-Eira/prodwise.git
+cd prodwise-main
 ```
 
 ### Passo 2: Rodar o back-end
 
 ```bash
-cd notra-api
+cd prodwise-api
 npm install
 npx prisma migrate dev
 npm run start:dev
@@ -73,7 +73,7 @@ npm run start:dev
 ### Passo 3: Rodar o front-end
 
 ```bash
-cd ../notra-front
+cd ../prodwise-front
 npm install
 npm run dev
 ```
@@ -102,12 +102,6 @@ Este projeto é pessoal, mas contribuições são bem-vindas 🙂
 3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
 4. Faça o push (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
-
----
-
-## 📜 Licença
-
-Este projeto é de uso pessoal e está sob a licença **MIT**. Sinta-se livre para usar como referência.
 
 ---
 
