@@ -1,0 +1,19 @@
+name: CI - Backend (prodwise-api)
+
+on:
+  push:
+    paths:
+      - "prodwise-api/**"
+    branches: [main]
+
+  pull_request:
+    paths:
+      - "prodwise-api/**"
+
+jobs:
+  test: 
+    runs-on: runs-on ubuntu-latest
+    defaults: 
+      run: 
+        working-directory: ./prodwise-api
+
