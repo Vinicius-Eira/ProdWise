@@ -1,6 +1,17 @@
 # ProdWise
 
-Projeto **pessoal** desenvolvido para praticar e demonstrar habilidades em desenvolvimento **full stack**, integrando back-end em **NestJS** com **Prisma ORM** e front-end moderno. O objetivo é servir como estudo e também como parte do meu **portfólio no GitHub**.
+Uma plataforma web para organização da rotina de estudos e produtividade, desenvolvida com Next.js e NestJS.
+Inclui ferramentas integradas para auxiliar no foco, organização e bem-estar:
+
+⏱️ Pomodoro Timer – gerenciamento de tempo com ciclos de foco e descanso.
+
+🗂️ Kanban de Tarefas – acompanhamento visual de metas e progresso.
+
+💧 Controle de Hidratação – lembretes para manter hábitos saudáveis.
+
+📝 Bloco de Notas – espaço prático para anotações rápidas.
+
+Projeto focado em performance, usabilidade e organização pessoal, explorando boas práticas de desenvolvimento fullstack..
 
 ---
 
