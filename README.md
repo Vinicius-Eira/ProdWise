@@ -41,14 +41,14 @@ Projeto focado em performance, usabilidade e organização pessoal, explorando b
 ## 📂 Estrutura do Projeto
 
 ```
-notra-corner-main/
+prodwise-main/
 ├── .github/workflows   → Configurações de CI/CD
-├── notra-api/          → Back-end (NestJS + Prisma)
+├── prodwise-api/          → Back-end (NestJS + Prisma)
 │   ├── prisma/         → Schema, migrations e diagramas
 │   ├── src/            → Código-fonte do back-end
 │   ├── package.json    → Dependências do back-end
 │   └── ...
-└── notra-front/        → Front-end (React + Vite + Tailwind)
+└── prodwise-front/        → Front-end (React + Vite + Tailwind)
     ├── src/            → Código-fonte do front-end
     ├── package.json    → Dependências do front-end
     └── ...
