@@ -1,3 +1,5 @@
+"use client";
+
 import { Footer } from "@/components/footer/footer-app";
 import { Header } from "@/components/header/header-LP/header";
 import { motion } from "framer-motion";
