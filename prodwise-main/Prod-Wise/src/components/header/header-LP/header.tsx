@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import lightLogo from "@/assets/logo-white.png";
+import lightLogo from "../../../assets/logo-white.png";
 import { Menu } from "./menu";
 import { MenuButtons } from "./menu-buttons";
 import { MenuMobile } from "./menu-mobile";
